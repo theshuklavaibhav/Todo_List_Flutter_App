@@ -12,7 +12,7 @@ class HomeScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('ToDO List',
+        title: Text('ToDo List',
         style: TextStyle(
           fontWeight: FontWeight.bold
         ),),
